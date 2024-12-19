@@ -25,11 +25,10 @@ Steps done:
 1.Basic cleaning of the data( order table-removed two colunms(row id,postal code),removed duplicates(order id),removed blank rows) (people table-promoted headers,filtered rows,removed duplictes)
 (returns table-promoted headers,removed duplicates, removed blank rows)
 
-2. made relationship with the tables
+2.Made relationship with the tables
    
 3.Created Visuals
 
 4.Created slicers
-
 5.Created buttons
 
