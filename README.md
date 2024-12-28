@@ -34,3 +34,21 @@ Steps done:
 
 5.Created buttons
 
+# Power BI Assigment 3
+
+This Assignemnt is about Data Analysis using Powe BI
+
+Steps Done:
+
+1.Imported and Processed dataset.
+
+2.Basic Data cleaning
+
+3.Created Visuals 
+
+4.Created buttons
+
+5.Created slicers
+
+
+
